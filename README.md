@@ -17,15 +17,11 @@ The Intro to Security Information and Event Management (SIEM) project aimed to d
 ### Tools Used
 [Bullet Points - Remove this afterwards]
 
-- Sample SIEM dashboard on TryHackMe for log ingestion and analysis.
+- TryHackMe sample SIEM dashboard and events for log ingestion and analysis.
 - Windows Event Viewer for viewing events in a Windows environment.
 
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
-
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
+-
+-
+-
