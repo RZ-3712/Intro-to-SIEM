@@ -17,11 +17,11 @@ The Intro to Security Information and Event Management (SIEM) project aimed to d
 ### Tools Used
 [Bullet Points - Remove this afterwards]
 
-- TryHackMe sample SIEM dashboard and events for log ingestion and analysis.
+- TryHackMe's sample SIEM dashboard and events for log ingestion and analysis.
 - Windows Event Viewer for viewing events in a Windows environment.
 
 
-## Steps
--
--
--
+### Steps (continue adding steps)
+- The importance of SIEM and why why it is critical to have better visibility of all the activities within a network.
+- Log Sources: common devices that are found in a network environment, such as Windows machines and Linux Workstations.
+- Log ingestion, which is the process of collecting log data from various sources, such as applications, servers, and network devices, and sending it to a central location for storage, analysis, and monitoring.
