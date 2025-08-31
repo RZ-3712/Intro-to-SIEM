@@ -1,9 +1,9 @@
-# Intro to SIEM
+# TryHackMe: Intro to SIEM
 
 ## Objective
 [Brief Objective - Remove this afterwards]
 
-The Intro to Security Information and Event Management (SIEM) project aimed to deepen an understanding of what a SIEM is, how it works and why it is needed.The project also focuses on network Visibility through SIEM, what log sources are, how log ingestion is done and capabilities a SIEM provides.
+The Introduction to Security Information and Event Management (SIEM) project aims to develop a foundational understanding of SIEM systems, including their purpose, functionality, and importance in cybersecurity. The project emphasizes network visibility, log sources, and log ingestion processes, while exploring the analytical capabilities provided by SIEM platforms. Hands-on lab work reinforces these concepts by simulating real-world scenarios where alerts are generated and analyzed to determine if they are true or false positives.
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
