@@ -1,7 +1,8 @@
 # TryHackMe: Intro to SIEM
+🔗 [Intro to SIEM Room Link](https://tryhackme.com/room/introtosiem)
 
 ## Objective
-The Introduction to Security Information and Event Management (SIEM) project aims to develop a foundational understanding of SIEM systems, including their purpose, functionality, and importance in cybersecurity. The project emphasizes network visibility, log sources, and log ingestion processes, while exploring the analytical capabilities provided by SIEM platforms. Hands-on lab work reinforces these concepts by simulating real-world scenarios where alerts are generated and analyzed to determine if they are true or false positives.
+The Introduction to Security Information and Event Management (SIEM) room aims to develop a foundational understanding of SIEM systems, including their purpose, functionality, and importance in cybersecurity. The project emphasizes network visibility, log sources, and log ingestion processes, while exploring the analytical capabilities provided by SIEM platforms. Hands-on lab work reinforces these concepts by simulating real-world scenarios where alerts are generated and analyzed to determine if they are true or false positives.
 
 ### Skills Learned
 - Strong understanding of SIEM concepts and practical application.
